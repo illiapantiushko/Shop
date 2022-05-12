@@ -32,14 +32,14 @@ List<Product> demo_product = [
     bgColor: const Color(0xFFF8FEFB),
   ),
    Product(
-    image: "assets/images/Штани.jpg",
+    image: "assets/images/trouser.jpg",
     title: "Casual Nolin",
     price: 149,
     type:"Trouser",
     bgColor: Colors.white,
   ),
    Product(
-    image: "assets/images/Штани2.jpg",
+    image: "assets/images/trouser2.jpg",
     title: "Casual Nolin",
     price: 149,
     type:"Trouser",
